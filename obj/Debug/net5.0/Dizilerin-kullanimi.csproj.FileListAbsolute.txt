@@ -1,0 +1,16 @@
+C:\Users\okans\Desktop\pratikler\Dizilerin-kullanimi\bin\Debug\net5.0\Dizilerin-kullanimi.exe
+C:\Users\okans\Desktop\pratikler\Dizilerin-kullanimi\bin\Debug\net5.0\Dizilerin-kullanimi.deps.json
+C:\Users\okans\Desktop\pratikler\Dizilerin-kullanimi\bin\Debug\net5.0\Dizilerin-kullanimi.runtimeconfig.json
+C:\Users\okans\Desktop\pratikler\Dizilerin-kullanimi\bin\Debug\net5.0\Dizilerin-kullanimi.runtimeconfig.dev.json
+C:\Users\okans\Desktop\pratikler\Dizilerin-kullanimi\bin\Debug\net5.0\Dizilerin-kullanimi.dll
+C:\Users\okans\Desktop\pratikler\Dizilerin-kullanimi\bin\Debug\net5.0\ref\Dizilerin-kullanimi.dll
+C:\Users\okans\Desktop\pratikler\Dizilerin-kullanimi\bin\Debug\net5.0\Dizilerin-kullanimi.pdb
+C:\Users\okans\Desktop\pratikler\Dizilerin-kullanimi\obj\Debug\net5.0\Dizilerin-kullanimi.csproj.AssemblyReference.cache
+C:\Users\okans\Desktop\pratikler\Dizilerin-kullanimi\obj\Debug\net5.0\Dizilerin-kullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okans\Desktop\pratikler\Dizilerin-kullanimi\obj\Debug\net5.0\Dizilerin-kullanimi.AssemblyInfoInputs.cache
+C:\Users\okans\Desktop\pratikler\Dizilerin-kullanimi\obj\Debug\net5.0\Dizilerin-kullanimi.AssemblyInfo.cs
+C:\Users\okans\Desktop\pratikler\Dizilerin-kullanimi\obj\Debug\net5.0\Dizilerin-kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\okans\Desktop\pratikler\Dizilerin-kullanimi\obj\Debug\net5.0\Dizilerin-kullanimi.dll
+C:\Users\okans\Desktop\pratikler\Dizilerin-kullanimi\obj\Debug\net5.0\ref\Dizilerin-kullanimi.dll
+C:\Users\okans\Desktop\pratikler\Dizilerin-kullanimi\obj\Debug\net5.0\Dizilerin-kullanimi.pdb
+C:\Users\okans\Desktop\pratikler\Dizilerin-kullanimi\obj\Debug\net5.0\Dizilerin-kullanimi.genruntimeconfig.cache

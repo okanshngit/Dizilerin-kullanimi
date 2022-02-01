@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7z92AzeUAWxSJWxswdGDQ+KH0c2DQVmm6FlL3fj6T6hRA2UK+krWrWXU5NJNBI6xCtLbQt/6Djja1EX7dBH2tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\okans\\Desktop\\pratikler\\Dizilerin-kullanimi\\Dizilerin-kullanimi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okans\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okans\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
